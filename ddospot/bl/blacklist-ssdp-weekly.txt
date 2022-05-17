@@ -1,2 +1,0 @@
-# ssdp blacklist
-# Weekly list of scanners/attackers for period 2022-05-01 22:11:20.985463 - 2022-05-08 22:11:20.985463
