@@ -1,1 +1,0 @@
-{"timestamp": "2022-05-08T23:03:09.560345", "sensorid": "conpot", "id": "4c1e3dda-66e4-4f1e-a4e8-1c9bcdad7dc8", "src_ip": "205.210.31.143", "src_port": 58912, "dst_ip": "172.24.0.2", "dst_port": 1025, "public_ip": "54.152.141.237", "data_type": "kamstrup_protocol", "request": null, "response": null, "event_type": "NEW_CONNECTION"}
